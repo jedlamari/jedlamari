@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jedlamari
-- 👀 I’m interested in Computer Vison
-- 🌱 I’m currently learning Python and Unix
-- 💞️ I’m looking to collaborate on new and exciting projects
+- 👀 I’m interested in networking and cloud development
+- 🌱 I’m currently learning Golang, Ansible
 - 📫 How to reach me at jed.lamari-saysset@mail.mcgill.ca
 
 <!---
